@@ -16,6 +16,7 @@
   "author": "Paola Guarasci",
   "license": "MIT",
   "dependencies": {
+    "hummus": "^1.0.90",
     "path": "^0.12.7",
     "textract": "^2.4.0"
   }
