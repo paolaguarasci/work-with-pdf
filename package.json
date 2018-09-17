@@ -14,5 +14,9 @@
     "pdf"
   ],
   "author": "Paola Guarasci",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "path": "^0.12.7",
+    "textract": "^2.4.0"
+  }
 }
