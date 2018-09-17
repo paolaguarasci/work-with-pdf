@@ -2,7 +2,7 @@
 ### command line tools to do this kind of operation
 
 ### operation
-- split
 - merge
+- split
 - watermark
 - encript
